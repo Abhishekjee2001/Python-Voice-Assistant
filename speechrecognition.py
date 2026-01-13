@@ -150,8 +150,6 @@ def run_assistant():
         else:
             speak("I am not sure how to help with that.")
 
-# =========================
-# START ASSISTANT
-# =========================
 
 run_assistant()
+
